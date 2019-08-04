@@ -1,0 +1,549 @@
+# --------------------------- #
+#   Races of Thana // Thana   #
+# --------------------------- #
+
+race-gui-name: '&c� &eSelect your race!'
+gui-slots: 36
+time-check-rate: 20
+potion-effect-duration: 21
+force-race-on-join: true
+motd-enabled: false
+per-race-permissions: true
+race-token-enabled: true
+token-permission-required: true
+blacklisted-worlds:
+- exampleWorld
+- exampleWorld2
+gui:
+  banner0:
+    display-name: '&0'
+    material: PURPLE_STAINED_GLASS_PANE
+    durability: 0
+    slot: 0
+    lore:
+    - '&4>> &cSelect your race!'
+    - ''
+    - '&6>> &3Hover over a race'
+    - '&6>> &3for more info!'
+    item-flags:
+    - HIDE_ATTRIBUTES
+  banner1:
+    display-name: '&0'
+    material: PURPLE_STAINED_GLASS_PANE
+    durability: 0
+    slot: 1
+    lore:
+    - '&4>> &cSelect your race!'
+    - ''
+    - '&6>> &3Hover over a race'
+    - '&6>> &3for more info!'
+    item-flags:
+    - HIDE_ATTRIBUTES
+  banner2:
+    display-name: '&0'
+    material: PURPLE_STAINED_GLASS_PANE
+    durability: 0
+    slot: 2
+    lore:
+    - '&4>> &cSelect your race!'
+    - ''
+    - '&6>> &3Hover over a race'
+    - '&6>> &3for more info!'
+    item-flags:
+    - HIDE_ATTRIBUTES
+  banner3:
+    display-name: '&0'
+    material: PURPLE_STAINED_GLASS_PANE
+    durability: 0
+    slot: 3
+    lore:
+    - '&4>> &cSelect your race!'
+    - ''
+    - '&6>> &3Hover over a race'
+    - '&6>> &3for more info!'
+    item-flags:
+    - HIDE_ATTRIBUTES
+  banner4:
+    display-name: '&0'
+    material: PURPLE_STAINED_GLASS_PANE
+    durability: 0
+    slot: 4
+    lore:
+    - '&4>> &cSelect your race!'
+    - ''
+    - '&6>> &3Hover over a race'
+    - '&6>> &3for more info!'
+    item-flags:
+    - HIDE_ATTRIBUTES
+  banner5:
+    display-name: '&0'
+    material: PURPLE_STAINED_GLASS_PANE
+    durability: 0
+    slot: 5
+    lore:
+    - '&4>> &cSelect your race!'
+    - ''
+    - '&6>> &3Hover over a race'
+    - '&6>> &3for more info!'
+    item-flags:
+    - HIDE_ATTRIBUTES
+  banner6:
+    display-name: '&0'
+    material: PURPLE_STAINED_GLASS_PANE
+    durability: 0
+    slot: 6
+    lore:
+    - '&4>> &cSelect your race!'
+    - ''
+    - '&6>> &3Hover over a race'
+    - '&6>> &3for more info!'
+    item-flags:
+    - HIDE_ATTRIBUTES
+  banner7:
+    display-name: '&0'
+    material: PURPLE_STAINED_GLASS_PANE
+    durability: 0
+    slot: 7
+    lore:
+    - '&4>> &cSelect your race!'
+    - ''
+    - '&6>> &3Hover over a race'
+    - '&6>> &3for more info!'
+    item-flags:
+    - HIDE_ATTRIBUTES
+  banner8:
+    display-name: '&0'
+    material: PURPLE_STAINED_GLASS_PANE
+    durability: 0
+    slot: 8
+    lore:
+    - '&4>> &cSelect your race!'
+    - ''
+    - '&6>> &3Hover over a race'
+    - '&6>> &3for more info!'
+    item-flags:
+    - HIDE_ATTRIBUTES
+  banner9:
+    display-name: '&0'
+    material: PURPLE_STAINED_GLASS_PANE
+    durability: 0
+    slot: 9
+    lore:
+    - '&4>> &cSelect your race!'
+    - ''
+    - '&6>> &3Hover over a race'
+    - '&6>> &3for more info!'
+    item-flags:
+    - HIDE_ATTRIBUTES
+  banner10:
+    display-name: '&0'
+    material: PURPLE_STAINED_GLASS_PANE
+    durability: 0
+    slot: 17
+    lore:
+    - '&4>> &cSelect your race!'
+    - ''
+    - '&6>> &3Hover over a race'
+    - '&6>> &3for more info!'
+    item-flags:
+    - HIDE_ATTRIBUTES
+  banner11:
+    display-name: '&0'
+    material: PURPLE_STAINED_GLASS_PANE
+    durability: 0
+    slot: 18
+    lore:
+    - '&4>> &cSelect your race!'
+    - ''
+    - '&6>> &3Hover over a race'
+    - '&6>> &3for more info!'
+    item-flags:
+    - HIDE_ATTRIBUTES
+  banner12:
+    display-name: '&0'
+    material: PURPLE_STAINED_GLASS_PANE
+    durability: 0
+    slot: 26
+    lore:
+    - '&4>> &cSelect your race!'
+    - ''
+    - '&6>> &3Hover over a race'
+    - '&6>> &3for more info!'
+    item-flags:
+    - HIDE_ATTRIBUTES
+  banner13:
+    display-name: '&0'
+    material: PURPLE_STAINED_GLASS_PANE
+    durability: 0
+    slot: 27
+    lore:
+    - '&4>> &cSelect your race!'
+    - ''
+    - '&6>> &3Hover over a race'
+    - '&6>> &3for more info!'
+    item-flags:
+    - HIDE_ATTRIBUTES
+  banner14:
+    display-name: '&0'
+    material: PURPLE_STAINED_GLASS_PANE
+    durability: 0
+    slot: 28
+    lore:
+    - '&4>> &cSelect your race!'
+    - ''
+    - '&6>> &3Hover over a race'
+    - '&6>> &3for more info!'
+    item-flags:
+    - HIDE_ATTRIBUTES
+  banner15:
+    display-name: '&0'
+    material: PURPLE_STAINED_GLASS_PANE
+    durability: 0
+    slot: 29
+    lore:
+    - '&4>> &cSelect your race!'
+    - ''
+    - '&6>> &3Hover over a race'
+    - '&6>> &3for more info!'
+    item-flags:
+    - HIDE_ATTRIBUTES
+  banner16:
+    display-name: '&0'
+    material: PURPLE_STAINED_GLASS_PANE
+    durability: 0
+    slot: 30
+    lore:
+    - '&4>> &cSelect your race!'
+    - ''
+    - '&6>> &3Hover over a race'
+    - '&6>> &3for more info!'
+    item-flags:
+    - HIDE_ATTRIBUTES
+  banner17:
+    display-name: '&0'
+    material: PURPLE_STAINED_GLASS_PANE
+    durability: 0
+    slot: 31
+    lore:
+    - '&4>> &cSelect your race!'
+    - ''
+    - '&6>> &3Hover over a race'
+    - '&6>> &3for more info!'
+    item-flags:
+    - HIDE_ATTRIBUTES
+    data: 0
+  banner18:
+    display-name: '&0'
+    material: PURPLE_STAINED_GLASS_PANE
+    durability: 0
+    slot: 32
+    lore:
+    - '&4>> &cSelect your race!'
+    - ''
+    - '&6>> &3Hover over a race'
+    - '&6>> &3for more info!'
+    item-flags:
+    - HIDE_ATTRIBUTES
+  banner19:
+    display-name: '&0'
+    material: PURPLE_STAINED_GLASS_PANE
+    durability: 0
+    slot: 33
+    lore:
+    - '&4>> &cSelect your race!'
+    - ''
+    - '&6>> &3Hover over a race'
+    - '&6>> &3for more info!'
+    item-flags:
+    - HIDE_ATTRIBUTES
+  banner20:
+    display-name: '&0'
+    material: PURPLE_STAINED_GLASS_PANE
+    durability: 0
+    slot: 34
+    lore:
+    - '&4>> &cSelect your race!'
+    - ''
+    - '&6>> &3Hover over a race'
+    - '&6>> &3for more info!'
+    item-flags:
+    - HIDE_ATTRIBUTES
+  banner21:
+    display-name: '&0'
+    material: PURPLE_STAINED_GLASS_PANE
+    durability: 0
+    slot: 35
+    lore:
+    - '&4>> &cSelect your race!'
+    - ''
+    - '&6>> &3Hover over a race'
+    - '&6>> &3for more info!'
+    item-flags:
+    - HIDE_ATTRIBUTES
+races:
+  werewolf:
+    base-health: 20
+    base-health-enabled: false
+    hurt-sound: ENTITY_GHAST_HURT
+    death-sound: ENTITY_WITHER_DEATH
+    race-color: DARK_GRAY
+    permissions:
+    - race.permission
+    - -negated.permission
+    gui:
+      display-name: '&8Werewolf'
+      material: BONE
+      durability: 0
+      lore:
+      - '&6Notes:'
+      - '&c  These mythical creatures are humans with the ability'
+      - '&c  to shapeshift into a wolf.'
+      - '&c  The have little to no control when it comes'
+      - '&c  to maintaining their humanoids shapes during full moon'
+      - ''
+      - '&cStyle:'
+      - '   &o&7Defensive,Utility'
+      - ''
+      - '&6PASSIVES:'
+      - '&7-&eDamage Resistance I'
+      - '&7Day: &eDamage Resistance I'
+      - '&7Night: &eDamage Resistance II, Hunger, Night Vision'
+      slot: 23
+      item-flags:
+      - HIDE_ATTRIBUTES
+      - HIDE_UNBREAKABLE
+      item-enchantments:
+      - DURABILITY
+    commands:
+      enabled: true
+      race-change-commands:
+      - bc %player_displayname% became a(n) %player_race_displayname%!
+      race-commands-day:
+      - tellraw %player_name% {"text":"The sun has risen","color":"red"}
+      race-commands-night:
+      - tellraw %player_name% {"text":"The night has fallen","color":"red"}
+    potions:
+      enabled: true
+      potion-bubbles: false
+      potioneffects:
+      - DAMAGE_RESISTANCE:1
+      day-effects:
+      - DAMAGE_RESISTANCE:1
+      night-effects:
+      - DAMAGE_RESISTANCE:2
+      - NIGHT_VISION:1
+      - HUNGER:2
+    damage:
+      enabled: false
+      water-damage: false
+      lava-damage: false
+      water-damage-amount: 2
+      lava-damage-amount: 2
+    race-location:
+      enabled: true
+      location: world:128:66:-112
+      temp-op: false
+  human:
+    base-health: 20
+    base-health-enabled: false
+    hurt-sound: ENTITY_PLAYER_HURT
+    death-sound: ENTITY_WITHER_DEATH
+    race-color: BLUE
+    permissions:
+    - race.permission
+    - -negated.permission
+    gui:
+      display-name: '&9Human'
+      material: STONE_SWORD
+      durability: 0
+      lore:
+      - '&6Notes:'
+      - '&c  Humans are the most diverse and largest race in Minecraft.'
+      - '&c  They live anywhere, from the woodland to the desert.'
+      - '&c  They feel empowered during the day as they do their labors'
+      - '&c  although it is the opposite during the night'
+      - ''
+      - '&cStyle:'
+      - '   &o&7Neutral'
+      - ''
+      - '&6PASSIVES:'
+      - '&7-&eDamage Resistance I'
+      - '&7Day: &eDamage Resistance II, INCREASED DAMAGE II'
+      - '&7Night: &eDamage Resistance I, WEAKNESS I'
+      slot: 21
+      item-flags:
+      - HIDE_ATTRIBUTES
+      - HIDE_UNBREAKABLE
+      item-enchantments:
+      - DURABILITY
+    commands:
+      enabled: true
+      race-change-commands:
+      - bc %player_displayname% became a(n) %player_race_displayname%!
+      race-commands-day:
+      - tellraw %player_name% {"text":"The sun has risen","color":"red"}
+      race-commands-night:
+      - tellraw %player_name% {"text":"The night has fallen","color":"red"}
+    potions:
+      enabled: true
+      potion-bubbles: false
+      potioneffects:
+      - DAMAGE_RESISTANCE:1
+      day-effects:
+      - INCREASE_DAMAGE:2
+      - DAMAGE_RESISTANCE:2
+      night-effects:
+      - WEAKNESS:1
+    damage:
+      enabled: false
+      water-damage: false
+      lava-damage: false
+      water-damage-amount: 2
+      lava-damage-amount: 2
+    race-location:
+      enabled: true
+      location: world;128;66;-112
+      temp-op: false
+  vampire:
+    base-health: 20
+    base-health-enabled: false
+    hurt-sound: ENTITY_BAT_HURT
+    death-sound: ENTITY_WITHER_DEATH
+    race-color: PURPLE
+    permissions:
+    - race.permission
+    - -negated.permission
+    gui:
+      display-name: '&5Vampire'
+      material: TOTEM_OF_UNDYING
+      durability: 0
+      lore:
+      - '&6Notes:'
+      - '&c  A vampire is a being from folklore that subsists by feeding'
+      - '&c  on the vital force of the living.'
+      - '&c  vampires were undead beings that often visited loved ones'
+      - '&c  and caused mischief or deaths in the neighborhoods they inhabited while they were alive.'
+      - ''
+      - '&cStyle:'
+      - '   &o&7Attack'
+      - ''
+      - '&6PASSIVES:'
+      - '&7-&eCONDUIT POWER I'
+      - '&7Day: &eWEAKNESS II, MINING FATIGUE I. GLOWING I &8(Twilight)'
+      - '&7Night: &eNIGHT VISION I, INCREASED DAMAGE II, SPEED I'
+      slot: 10
+      item-flags:
+      - HIDE_ATTRIBUTES
+      - HIDE_UNBREAKABLE
+      item-enchantments:
+      - DURABILITY
+    commands:
+      enabled: true
+      race-change-commands:
+      - bc %player_displayname% became a(n) %player_race_displayname%!
+      race-commands-day:
+      - tellraw %player_name% {"text":"The sun has risen","color":"red"}
+      race-commands-night:
+      - tellraw %player_name% {"text":"The night has fallen","color":"red"}
+    potions:
+      enabled: true
+      potion-bubbles: false
+      potioneffects:
+      - CONDUIT_POWER:1
+      day-effects:
+      - WEAKNESS:2
+      - SLOW_DIGGING:1
+      - GLOWING:1
+      night-effects:
+      - NIGHT_VISION:1
+      - INCREASE_DAMAGE:2
+      - SPEED:1
+
+    damage:
+      enabled: true
+      water-damage: false
+      lava-damage: true
+      water-damage-amount: 2
+      lava-damage-amount: 6
+    race-location:
+      enabled: false
+      location: world;128;66;-112
+      temp-op: false
+  vampire:
+    base-health: 20
+    base-health-enabled: false
+    hurt-sound: ENTITY_BAT_HURT
+    death-sound: ENTITY_WITHER_DEATH
+    race-color: PURPLE
+    permissions:
+    - race.permission
+    - -negated.permission
+    gui:
+      display-name: '&5Vampire'
+      material: TOTEM_OF_UNDYING
+      durability: 0
+      lore:
+      - '&6Notes:'
+      - '&c  A vampire is a being from folklore that subsists by feeding'
+      - '&c  on the vital force of the living.'
+      - '&c  vampires were undead beings that often visited loved ones'
+      - '&c  and caused mischief or deaths in the neighborhoods they inhabited while they were alive.'
+      - ''
+      - '&cStyle:'
+      - '   &o&7Attack'
+      - ''
+      - '&6PASSIVES:'
+      - '&7-&eCONDUIT POWER I'
+      - '&7Day: &eWEAKNESS II, MINING FATIGUE I. GLOWING I &8(Twilight)'
+      - '&7Night: &eNIGHT VISION I, INCREASED DAMAGE II, SPEED I'
+      slot: 10
+      item-flags:
+      - HIDE_ATTRIBUTES
+      - HIDE_UNBREAKABLE
+      item-enchantments:
+      - DURABILITY
+    commands:
+      enabled: true
+      race-change-commands:
+      - bc %player_displayname% became a(n) %player_race_displayname%!
+      race-commands-day:
+      - tellraw %player_name% {"text":"The sun has risen","color":"red"}
+      race-commands-night:
+      - tellraw %player_name% {"text":"The night has fallen","color":"red"}
+    potions:
+      enabled: true
+      potion-bubbles: false
+      potioneffects:
+      - CONDUIT_POWER:1
+      day-effects:
+      - WEAKNESS:2
+      - SLOW_DIGGING:1
+      - GLOWING:1
+      night-effects:
+      - NIGHT_VISION:1
+      - INCREASE_DAMAGE:2
+      - SPEED:1
+
+    damage:
+      enabled: true
+      water-damage: false
+      lava-damage: true
+      water-damage-amount: 2
+      lava-damage-amount: 6
+    race-location:
+      enabled: false
+      location: world;128;66;-112
+      temp-op: false    
+      
+
+
+
+race-token:
+  display-name: '&6Race Token'
+  material: NETHER_STAR
+  durability: 0
+  lore:
+  - '&eGive this to the race npc'
+  - '&eto change your race!'
+  item-flags:
+  - HIDE_ATTRIBUTES
